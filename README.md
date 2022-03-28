@@ -1,5 +1,5 @@
 # TKGm-HOL
- (VMware Tanzu Kubernetes Grid - vSphere with Tanzu(TKGm) Hands-On-Lab)
+ (VMware Tanzu Kubernetes Grid - TKGm(multi cloud) Hands-On-Lab)
  ![](images/tanzu_hol_header_logo.png)
 
  ## Introduction
@@ -10,10 +10,10 @@
 
 ## Required Artifacts
 * 인터넷 접속 가능한 PC
-* vSphere 7 with Tanzu
+* vSphere 7
 * SSH Terminal (windows Putty, macOS Terminal 등)
 
 ## Hands-On 순서
 
 1. [Tanzu Portfolio 소개](./TanzuPortfolio_overview.md)
-2. [vSphere with Tanzu Hands-On-Lab](./tkgm_HOL.md)
+2. [TKGm Hands-On-Lab](./tkgm_HOL.md)
